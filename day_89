@@ -1,0 +1,3 @@
+string = "rpl unsulbar"
+print(string.split())
+
