@@ -1,0 +1,4 @@
+A = "python"
+B = "Java"
+
+print(A + B.capitalize())
