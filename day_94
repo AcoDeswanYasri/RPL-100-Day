@@ -1,0 +1,2 @@
+kata = 'awesome'
+print(kata.replace('e','r',1))
