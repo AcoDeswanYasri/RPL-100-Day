@@ -1,0 +1,5 @@
+Angk = 10
+While True:
+   Angk -= 1
+   if Angk == 6:
+     break
